@@ -421,6 +421,7 @@ export default {
 
 .skill-card {
     width: 298px;
+    height: auto;
     background-color: #fff;
     border: 1px solid black;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
